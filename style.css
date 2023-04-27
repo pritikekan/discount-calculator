@@ -5,11 +5,12 @@ body{
     background-color: rgb(247, 237, 219);
 }
 .container{
-    width: 800px;
+    width: 900px;
     background-color: #0d5c63;
     margin-left: 450px;
     margin-top: 300px;
     border-radius: 10px;
+    
 }
 h2 {
     font-weight: bolder;
@@ -44,7 +45,7 @@ input{
 #calculator{
     padding: 20px;
     width: 200px;
-    color: #0d5c63;
+    color:  #0d5c63;
     font-weight: bolder;
     border-radius: 10px;
     margin-left: 235px;
@@ -56,4 +57,11 @@ input{
 }
 #total{
     text-align: centers;
+
+}
+.socialmedia{
+margin-right: 20px;
+font-size: 2rem;
+text-align: right;
+word-spacing:15px;
 }
